@@ -1,7 +1,7 @@
 # Phase 2 Project
 
 # Project Pitch
-Tool to add un-housed dogs to an adoption databases.
+Tool to add un-housed animals to an adoption databases.
 
 # User Stories 
 
