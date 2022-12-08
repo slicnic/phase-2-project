@@ -11,7 +11,7 @@ function AdoptedAnimals({ animals, onRemoveAnimalFromAdopted, onDelete }) {
 
     return (
         <div id="adopted-container">
-            <h2>Adopted!</h2>
+            <h2>Animals you Might Adopt?</h2>
             <div>
                 {adoptedAnimals}
             </div>
